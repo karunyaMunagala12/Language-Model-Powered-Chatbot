@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 3em; color: #FFB703;">LLM-Powered Chatbot for Education</h1>
 
 <p align="center">
-  <img src="https://github.com/karunyaMunagala12/<repository-name>/raw/main/Project%20Banner.png" alt="Project Banner" width="800">
+  <img src="https://github.com/karunyaMunagala12/Language-Model-Powered-Chatbot/raw/main/Project%20Banner.png" alt="Project Banner" width="800">
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 <h2 style="color: #FFB703;">Architecture Diagram</h2>
 <p align="center">
-  <img src="https://github.com/karunyaMunagala12/<repository-name>/raw/main/Architecture%20Diagram.png" alt="Architecture Diagram" width="600">
+  <img src="https://github.com/karunyaMunagala12/Language-Model-Powered-Chatbot/raw/main/Architecture%20Diagram.png" alt="Architecture Diagram" width="600">
 </p>
 
 ---
@@ -68,8 +68,8 @@
 <ol>
   <li>Clone the repository:</li>
   <pre>
-  git clone https://github.com/karunyaMunagala12/<repository-name>.git
-  cd <repository-name>
+  git clone https://github.com/karunyaMunagala12/Language-Model-Powered-Chatbot.git
+  cd Language-Model-Powered-Chatbot
   </pre>
   <li>Install dependencies:</li>
   <pre>
